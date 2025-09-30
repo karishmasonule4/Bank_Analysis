@@ -7,7 +7,7 @@ The dataset contains customer and transaction-related information, including dem
 
 
 
-Data fieldes
+# Data fields:
 
 -age: Age of the client (numeric)
 
@@ -50,3 +50,11 @@ Data fieldes
 -nr_employed: Number of employees(related to employment rate)
 
 -y: Did the client subscribe to a term deposit? (yes or no)
+
+
+# Key Focusarea:
+Customer Segmentation – Classifying customers based on demographics, income levels, account types, and spending patterns.
+Loan and Credit Analysis – Evaluating loan distribution, repayment performance, and identifying default risk indicators.
+Transaction Insights – Detecting transaction frequency, volume, and seasonal patterns to improve banking operations.
+Churn Prediction – Analyzing customer retention and identifying factors that influence attrition.
+Profitability Analysis – Measuring contributions of different customer groups to the bank’s revenue.
